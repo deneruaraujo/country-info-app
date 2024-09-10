@@ -9,7 +9,7 @@
 # Instructions on How to Run the Application
 ## 1 - Cloning the Repository
 ```
-https://github.com/deneruaraujo/country-info-app.git
+git clone https://github.com/deneruaraujo/country-info-app.git
 ```
 ## 2 - Installing Dependencies
 - In the front-end folder (FE), use the following command:
