@@ -1,3 +1,11 @@
+# This application uses: 
+- React
+- Typescript
+- Tailwind
+- Next
+- Nest
+- react-chartjs-2
+
 # Instructions on How to Run the Application
 ## 1 - Cloning the Repository
 ```
